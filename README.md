@@ -1,2 +1,4 @@
 # Primer_repositorio
-Este es mi primer repositorio en el cuál estarán disponibles mis prácticas 
+Este repositorio es propiedad de: Jaime Eduardo Miranda Vázquez
+
+En este repositorio están disponibles mis prácticas de la segunda unidad, realizadas en PHP. 
